@@ -1,0 +1,24 @@
+body {
+	height: 170vh;
+  font-family: 'Sriracha', cursive;
+	color: #2c3e50;
+}
+
+.jumbotron {
+	height: 70vh;
+}
+
+.page-header {
+  font-family: 'Sriracha', cursive;
+}
+
+.background-game {
+	background-image: url("https://www.cartoonbrew.com/wp-content/uploads/2016/02/rockpaperscissors-580x326.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-position: center;
+	background-origin: content-box;
+  background-size: 2000px;
+}
+
+

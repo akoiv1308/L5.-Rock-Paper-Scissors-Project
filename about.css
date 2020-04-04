@@ -1,0 +1,32 @@
+body {
+	height: 170vh;
+  font-family: 'Sriracha', cursive;
+	color: #2c3e50;
+}
+
+.jumbotron {
+	height: 70vh;
+}
+
+.page-header {
+  font-family: 'Sriracha', cursive;
+}
+
+.background-game {
+	background-image: url("https://www.playworks.org/colorado/wp-content/uploads/sites/5/2019/09/finalrps-classypage.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-position: top;
+	background-origin: content-box;
+  background-size: 1500px;
+}
+
+.col-web {
+  padding-right: 365px;
+}
+.col-web2 {
+  padding-right: 375px;
+}
+.col-web3 {
+  padding-right: 0px;
+}
